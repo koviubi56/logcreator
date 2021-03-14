@@ -1,6 +1,6 @@
 **Please read it!**
 # How to help
-Use beta versions (or the latest), and if you find any bug, [open an issue]([WRITE])!
+Use beta versions (or the latest), and if you find any bug, [open an issue](https://github.com/koviubi56/logcreator/issues/new?assignees=&labels=Bug&template=bug_report.md&title=BUG)!
 
 But how?
 ## Write a good issue
@@ -38,5 +38,5 @@ Submit the issue, and done!
 #### [Terms of service](https://docs.github.com/github/site-policy/github-terms-of-service)
 #### [Community Guidelines](https://docs.github.com/articles/github-community-guidelines)
 ### Our rules
-#### [Code of conduct]([WRITE])
-#### [License]([WRITE])
+#### [Code of conduct](https://github.com/koviubi56/logcreator/blob/main/CODE_OF_CONDUCT.md)
+#### [License](https://github.com/koviubi56/logcreator/blob/main/LICENSE)
