@@ -23,5 +23,5 @@ assignees: ''
 
 ---
 *Please write X to the square brackets if you read it!*
-- [ ] I read the [code of conduct](https://github.com/koviubi56/countdown/blob/main/CODE_OF_CONDUCT.md)
-- [ ] I read the [contributing](https://github.com/koviubi56/countdown/blob/main/CONTRIBUTING.md)
+- [ ] I read the [code of conduct](https://github.com/koviubi56/logcreator/blob/main/CODE_OF_CONDUCT.md)
+- [ ] I read the [contributing](https://github.com/koviubi56/logcreator/blob/main/CONTRIBUTING.md)
