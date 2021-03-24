@@ -1,4 +1,7 @@
 # logcreator
+
+[![GitHub](https://img.shields.io/github/license/koviubi56/logcreator)](https://github.com/koviubi56/logcreator/blob/main/LICENSE)
+
 Create logs with python.
 
 If you want to create logs, and you don't want unnecessary:
