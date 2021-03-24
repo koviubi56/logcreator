@@ -29,18 +29,15 @@ def log(settings):
 
     Args:
         settings (dict): It's contains these:
-            type (str): Can be: i, inf, info; w, warn, warning; e, err, error.
+            type (str): Can be: info; warn, warning; err, error.
             text (str): The text. E.g.: [2009-01-06 15:08:24 INFO] ->TEXT<-
             return (str): What to return? "NOTHING": Nothing | "TRUEFALSE": True or False | "NUMBER": 0 or 1 | "YESNO": Yes or No
-
-    Returns:
-        str: [WRITE]
     """
     try:
         if settings["type"].lower() not in [
-            "i", "inf", "info",
-            "w", "warn", "warning",
-            "e", "err", "error"
+            "info",
+            "warn", "warning",
+            "err", "error"
         ]:
             return logReturn(False, settings["return"])
         logFile = open("log.log", "a")
@@ -60,7 +57,7 @@ def log(settings):
 
 if __name__ == '__main__':
     print(log({
-        "type": "I",
+        "type": "INFO",
         "text": "Never gonna give you up!",
         "return": "TRUEFALSE"
     }))
