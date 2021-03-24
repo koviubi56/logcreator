@@ -1,6 +1,6 @@
 # logcreator
 
-[![GitHub](https://img.shields.io/github/license/koviubi56/logcreator)](https://github.com/koviubi56/logcreator/blob/main/LICENSE)
+[![MPL-2.0](https://img.shields.io/github/license/koviubi56/logcreator)](https://github.com/koviubi56/logcreator/blob/main/LICENSE)
 
 Create logs with python.
 
