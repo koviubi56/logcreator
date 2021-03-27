@@ -8,14 +8,14 @@ logFile.close()
 
 
 def logReturn(success, mode):
-    if success == False:
+    if success is False:
         if mode == "TRUEFALSE":
             return False
         elif mode == "NUMBER":
             return 0
         elif mode == "YESNO":
             return "No"
-    if success == True:
+    if success:
         if mode == "TRUEFALSE":
             return True
         elif mode == "NUMBER":
