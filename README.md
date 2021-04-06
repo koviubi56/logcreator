@@ -3,6 +3,8 @@
 [![MPL-2.0](https://img.shields.io/github/license/koviubi56/logcreator)](https://github.com/koviubi56/logcreator/blob/main/LICENSE)
 [![CodeFactor](https://www.codefactor.io/repository/github/koviubi56/logcreator/badge/main)](https://www.codefactor.io/repository/github/koviubi56/logcreator/overview/main)
 
+[⚠️ Logcreator will no longer receive new features! ⚠️](https://github.com/koviubi56/logcreator/blob/main/SECURITY.md)
+
 Create logs with python.
 
 If you want to create logs, and you don't want unnecessary:
