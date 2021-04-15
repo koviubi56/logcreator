@@ -15,12 +15,6 @@
 
 *Open an issue, and give it the bug label!*
 
-:bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang:
-
-__**A BUG AND A SECURITY VULNERABILITY IS NOT THE SAME!**__ 
-
-:bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang::bangbang:
-
 ## Support status
 
 We don't support everything forever.
