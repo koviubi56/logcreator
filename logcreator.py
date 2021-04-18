@@ -1,10 +1,9 @@
 # This Software is licensed under Mozilla Public License 2.0 ( https://spdx.org/licenses/MPL-2.0.html )
 import datetime
 
-logFile = open("log.log", "a")
-logFile.write("\n===LOG FILE " +
-              str(datetime.datetime.now())[0:10] + " ===")
-logFile.close()
+with open("log.log", "a") as logFile:
+    logFile.write("\n===LOG FILE " +
+                  str(datetime.datetime.now())[0:10] + " ===")
 
 
 def logReturn(success, mode):
